@@ -7,7 +7,7 @@ author_profile: true
 
 # Antoine Bouyeure
 
-I am a postdoctoral researcher in neuroscience at Ruhr-University Bochum (Germany), although I am currently based in Paris (France). My work examines the neural mechanisms of memory, with a focus on traumatic and autobiographical memory, fear and extinction learning, and hippocampal function. More broadly, I study how memory representations are formed, generalized, stabilized, and transformed across experience.
+I am a postdoctoral researcher in neuroscience at Ruhr-University Bochum (Germany), currently based in Paris (France). My work examines the neural mechanisms of memory, with a focus on traumatic and autobiographical memory, fear and extinction learning, and hippocampal function. More broadly, I study how memory representations are formed, generalized, stabilized, and transformed across experience.
 
 My research aims to bridge fundamental cognitive neuroscience and translational psychiatry, by identifying mechanisms that may contribute to maladaptive memory states, such as intrusive and persistent trauma-related flashbacks, avoidant behaviors, or overgeneralized fear. To address these questions, I combine experimental paradigms, ultra-high-field (7T) neuroimaging, and computational analyses.
 
