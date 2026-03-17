@@ -11,8 +11,6 @@ I am a postdoctoral researcher in neuroscience at Ruhr-University Bochum (German
 
 My research aims to bridge fundamental cognitive neuroscience and translational psychiatry, by identifying mechanisms that may contribute to maladaptive memory states, such as intrusive and persistent trauma-related flashbacks, avoidant behaviors, or overgeneralized fear. To address these questions, I combine experimental paradigms, ultra-high-field (7T) neuroimaging, and computational analyses.
 
-My long-term objective is to identify neural markers and computational principles that can inform targeted interventions for trauma-related disorders.
-
 [View CV](/cv/){: .btn .btn--primary}
 [Research Output](/research/){: .btn .btn--primary}
 [Socials](/socials/){: .btn .btn--primary}
