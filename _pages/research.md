@@ -3,24 +3,8 @@ title: "Research Output"
 permalink: /research/
 layout: single
 author_profile: true
-toc: true
-toc_sticky: true
----
-
-## Research Themes
-
-### Memory representations, fear learning, and trauma
-
-I study how representations of cues and contexts evolve during fear acquisition and extinction, and how these representations contribute to adaptive versus maladaptive memory outcomes. This work is directly relevant to understanding mechanisms underlying trauma-related disorders, including the persistence and generalization of fear memories.
-
-### Hippocampal function and high-resolution neuroimaging
-
-Using ultra-high-field (7T) fMRI, including laminar approaches, I investigate how the human hippocampus supports memory encoding, retrieval, and pattern separation. This line of work aims to bridge human neuroimaging with computational models of hippocampal function.
-
-### Toward a translational neuroscience of memory
-
-A central objective of my research is to link representational dynamics observed in neuroimaging to clinically relevant phenomena, including intrusive memories, generalization, and resilience. This involves integrating behavioral measures, neural similarity metrics, and computational models to identify candidate mechanisms for psychiatric vulnerability and intervention.
-
+toc: false
+toc_sticky: false
 ---
 
 ## Selected Publications
