@@ -1,0 +1,40 @@
+title: Antoine Bouyeure
+description: Neuroscientist working on memory, fear learning, and ultra-high-field fMRI
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: default
+locale: en-US
+
+name: Antoine Bouyeure
+url: "https://antoinebouyeure.github.io"
+repository: "AntoineBouyeure/antoinebouyeure.github.io"
+
+author:
+  name: "Antoine Bouyeure"
+  avatar: "/assets/profile.jpg"
+  bio: "Neuroscientist interested in memory, traumatic memory, fear learning, hippocampal function, and laminar fMRI."
+  location: "Paris / Bochum"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/AntoineBouyeure"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
