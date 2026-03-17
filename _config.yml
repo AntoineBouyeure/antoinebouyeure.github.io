@@ -31,7 +31,7 @@ permalink: /:categories/:title/
 author:
   name: "Antoine Bouyeure"
   avatar: "/assets/profile.jpg"
-  bio: "Postdoctoral researcher in neuroscience working on memory, fear learning, traumatic memory, hippocampal function, and ultra-high-field fMRI."
+  bio: "Postdoctoral researcher in neuroscience working on traumatic memory, autobiographical memory, hippocampal function, and ultra-high-field fMRI."
   location: "Paris / Bochum"
   links:
     - label: "GitHub"
