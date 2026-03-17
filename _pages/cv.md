@@ -29,9 +29,9 @@ Memory, fear learning and extinction, traumatic and autobiographical memory, hip
 
 - **PhD in Neurosciences**, Université de Paris (2017–2021)
 - **MSc in Cognitive Neurosciences**, Sorbonne Université (2015–2017)
-- **MSc year 1 in Genetics**, Université de Paris (2014–2015)
-- **BS in Psychology**, Université de Paris (2011–2014)
-- **BS in Philosophy / MA in Philosophy of Sciences**, Sorbonne Université (2009–2014)
+- **MSc (year 1) in Genetics**, Université de Paris (2014–2015)
+- **BA in Psychology**, Université de Paris (2011–2014)
+- **BA in Philosophy / MA in Philosophy of Sciences**, Sorbonne Université (2009–2014)
 
 ## Awards and Fellowships
 
