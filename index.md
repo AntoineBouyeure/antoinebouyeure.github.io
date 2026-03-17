@@ -30,6 +30,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+{% include feature_row %}
+
 ## Antoine Bouyeure
 
 I am a postdoctoral researcher in neuroscience at Ruhr University Bochum. My work focuses on the neural mechanisms of memory, with a particular emphasis on fear learning and extinction, traumatic and autobiographical memory, and hippocampal function.
@@ -62,6 +64,4 @@ My work integrates cognitive neuroscience, high-resolution neuroimaging, and com
 I develop reproducible analysis pipelines in Python, R, and high-performance computing environments.
 My long-term objective is to develop a mechanistic understanding of how memory representations become maladaptive in psychiatric conditions, and to identify neural markers and computational principles that can inform targeted interventions for trauma-related disorders.
 
----
 
-{% include feature_row %}
