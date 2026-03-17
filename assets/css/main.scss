@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+.section-separator {
+  margin: 2rem 0 1.5rem;
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(to right, transparent, #cfcfcf, transparent);
+}
+
+.page__content p,
+.page__content li {
+  max-width: 950px;
+}
+
+.page__content strong {
+  color: #2f2f2f;
+}
