@@ -84,12 +84,6 @@ A central objective of my research is to link representational dynamics observed
 
 ---
 
-## Methods and Approach
-
-Experimental cognitive neuroscience, ultra-high-field fMRI (including laminar fMRI), computational modeling to characterize neural representations of memory. 
-
----
-
 ## Open Science and Code
 
 Code repositories and analysis workflows:  
