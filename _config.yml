@@ -1,21 +1,29 @@
-title: Antoine Bouyeure
-description: Neuroscientist working on memory, fear learning, and ultra-high-field fMRI
-remote_theme: mmistakes/minimal-mistakes
+title: "Antoine Bouyeure"
+name: "Antoine Bouyeure"
+description: "Neuroscientist working on memory, fear learning, traumatic memory, and ultra-high-field fMRI."
+url: "https://antoinebouyeure.github.io"
+repository: "AntoineBouyeure/antoinebouyeure.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: default
-locale: en-US
+locale: "en-US"
+minimal_mistakes_skin: "default"
+search: false
 
-name: Antoine Bouyeure
-url: "https://antoinebouyeure.github.io"
-repository: "AntoineBouyeure/antoinebouyeure.github.io"
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+include:
+  - _pages
 
 author:
   name: "Antoine Bouyeure"
   avatar: "/assets/profile.jpg"
-  bio: "Neuroscientist interested in memory, traumatic memory, fear learning, hippocampal function, and laminar fMRI."
+  bio: "Neuroscientist interested in traumatic memory, autobiographical memmory, hippocampal function, fear learning, representational analyses, and laminar fMRI."
   location: "Paris / Bochum"
   links:
     - label: "GitHub"
@@ -23,13 +31,13 @@ author:
       url: "https://github.com/AntoineBouyeure"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.fr/citations?user=g3jYe9QAAAAJ&hl=fr&authuser=1"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/antoine-bouyeure/"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/"
+      url: "https://orcid.org/my-orcid?orcid=0000-0002-0689-6878"
 
 defaults:
   - scope:
@@ -38,3 +46,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/AntoineBouyeure"
