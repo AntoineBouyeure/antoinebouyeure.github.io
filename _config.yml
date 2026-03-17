@@ -1,14 +1,24 @@
 title: "Antoine Bouyeure"
 name: "Antoine Bouyeure"
-description: "Neuroscientist working on memory, fear learning, traumatic memory, and ultra-high-field fMRI."
+description: "Neuroscientist working on memory, fear learning, and ultra-high-field fMRI."
+
 url: "https://antoinebouyeure.github.io"
+baseurl: ""   # IMPORTANT: leave empty for user.github.io sites
+
 repository: "AntoineBouyeure/antoinebouyeure.github.io"
 
+# --- THEME ---
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
+# --- PLUGINS (GitHub Pages supported) ---
 plugins:
   - jekyll-include-cache
 
+# --- CRITICAL FOR _pages ---
+include:
+  - _pages
+
+# --- SITE SETTINGS ---
 locale: "en-US"
 minimal_mistakes_skin: "default"
 search: false
@@ -17,13 +27,11 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
 
-include:
-  - _pages
-
+# --- AUTHOR (sidebar profile) ---
 author:
   name: "Antoine Bouyeure"
   avatar: "/assets/profile.jpg"
-  bio: "Neuroscientist interested in traumatic memory, autobiographical memmory, hippocampal function, fear learning, representational analyses, and laminar fMRI."
+  bio: "Postdoctoral researcher in neuroscience working on memory, fear learning, traumatic memory, hippocampal function, and ultra-high-field fMRI."
   location: "Paris / Bochum"
   links:
     - label: "GitHub"
@@ -37,8 +45,10 @@ author:
       url: "https://www.linkedin.com/in/antoine-bouyeure/"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-0689-6878"
+      url: "https://orcid.org/orcid=0000-0002-0689-6878"
 
+
+# --- DEFAULT PAGE SETTINGS ---
 defaults:
   - scope:
       path: ""
@@ -48,11 +58,18 @@ defaults:
       author_profile: true
       classes: wide
 
-atom_feed:
-  hide: true
+# --- NAVIGATION (linked to _data/navigation.yml) ---
+header:
+  nav: main
 
+# --- FOOTER ---
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/AntoineBouyeure"
+
+# --- OPTIONAL CLEANUP ---
+atom_feed:
+  hide: true
+
