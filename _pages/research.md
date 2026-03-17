@@ -7,12 +7,6 @@ toc: true
 toc_sticky: true
 ---
 
-My research investigates the neural mechanisms of memory, with a focus on traumatic memory, fear learning, and the relations between memory, emotion, and pyschiatric outcomes. I aim to bridge fundamental cognitive neuroscience and translational psychiatry by characterizing how neural representations are formed, generalized, and persist over time, and how these processes may contribute to maladaptive memory states such as intrusive or persistent trauma-related memories.
-
-I combine experimental paradigms, ultra-high-field neuroimaging, and computational analyses to study the organization and dynamics of memory representations across the hippocampus and neocortex.
-
----
-
 ## Research Themes
 
 ### Memory representations, fear learning, and trauma
