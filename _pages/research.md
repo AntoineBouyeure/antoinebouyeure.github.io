@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-My research investigates the neural mechanisms of memory, with a focus on fear learning, extinction, and traumatic memory. I aim to bridge fundamental cognitive neuroscience and translational psychiatry by characterizing how neural representations are formed, generalized, and persist over time, and how these processes may contribute to maladaptive memory states such as intrusive or persistent trauma-related memories.
+My research investigates the neural mechanisms of memory, with a focus on traumatic memory, fear learning, and the relations between memory, emotion, and pyschiatric outcomes. I aim to bridge fundamental cognitive neuroscience and translational psychiatry by characterizing how neural representations are formed, generalized, and persist over time, and how these processes may contribute to maladaptive memory states such as intrusive or persistent trauma-related memories.
 
 I combine experimental paradigms, ultra-high-field neuroimaging, and computational analyses to study the organization and dynamics of memory representations across the hippocampus and neocortex.
 
@@ -59,7 +59,6 @@ A central objective of my research is to link representational dynamics observed
 - Ahmadi, K., Swegle, S., Kashyap, S., **Bouyeure, A.**, Bandettini, P., Axmacher, N., & Huber, L.  
   *Blood volume sensitive laminar fMRI with VASO in human hippocampus: capabilities and biophysical challenges at clinical 7T scanners.*  
   **Imaging Neuroscience** (2026).  
-  (previously bioRxiv preprint)
 
 ---
 
@@ -87,9 +86,7 @@ A central objective of my research is to link representational dynamics observed
 
 ## Methods and Approach
 
-My work combines experimental cognitive neuroscience, ultra-high-field fMRI, and computational modeling to characterize neural representations of memory. I use representational similarity analyses, multivariate statistics, and high-resolution imaging approaches—including laminar fMRI—to investigate how memory traces are encoded, stabilized, generalized, and modified.
-
-I develop reproducible analysis pipelines in Python, R, and high-performance computing environments (SLURM-based systems), with a focus on methodological rigor, scalability, and cross-validation of neural metrics.
+Experimental cognitive neuroscience, ultra-high-field fMRI (including laminar fMRI), computational modeling to characterize neural representations of memory. 
 
 ---
 
