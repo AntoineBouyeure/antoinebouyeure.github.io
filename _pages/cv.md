@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-You can download the full CV [here](/assets/Antoine_Bouyeure_CV.pdf).
-
 ## Current Position
 
 **Postdoctoral Researcher**, Ruhr University Bochum, Bochum, Germany  
