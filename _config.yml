@@ -13,6 +13,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 # --- PLUGINS (GitHub Pages supported) ---
 plugins:
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # --- CRITICAL FOR _pages ---
 include:
